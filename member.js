@@ -3,4 +3,4 @@ function skillsMember() {
     name: 'John Doe',
     skills: ['JavaScript', 'React', 'Node']
   };
-}   
+}
